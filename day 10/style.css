@@ -1,0 +1,48 @@
+ul{
+list-style: none;
+display: flex;
+justify-content: space-around;
+}
+.text{
+    width: 40%;
+}
+h4{
+color: aliceblue;
+}
+
+.all{
+padding: 50px;
+display: flex;
+}
+.button{
+border: 1px solid purple;
+border-radius: 20px;
+background-color: purple;
+justify-items: center;
+width: 120px;
+height: 50px;
+}
+
+img{
+  padding-left: 200px;  
+}
+
+
+h4{
+    background-color: aquamarine;
+}
+
+h3{
+    color: aliceblue;
+}
+h2{
+    color: rgb(25, 25, 141);
+}
+
+
+.hgp{
+    width: 35px;
+}
+span{
+    color: rgb(64, 40, 201);
+}
